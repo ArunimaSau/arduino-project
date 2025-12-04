@@ -1,0 +1,12 @@
+💡 Blink LED Project Using Arduino
+
+I recently started my arduino learning with a beginner-friendly project: blinking an LED using an Arduino Uno.
+This simple experiment helped me understand how microcontrollers control digital outputs.
+
+What I learned:
+🔸 Basic Arduino coding
+🔸 Configuring GPIO pins
+🔸 Using pinMode() and digitalWrite()
+🔸 Timing with delay()
+
+Excited to try more Arduino projects ahead!
