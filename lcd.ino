@@ -17,8 +17,5 @@ void setup()
 
 
   }
-//   void show(int num){
-//   s.setNumber(num);
-// s.refreshDisplay();
-// delay(1000);
+
 }
