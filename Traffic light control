@@ -1,1 +1,8 @@
-
+🚦Moving on with my journey of embedded systems, next I tried to build a simple project of traffic light control with the timer counter. Before building this I had to learn about the 
+ seven segment display for timer logic.
+📌 Key Learnings
+ 1.Basics of embedded systems.
+ 2.Seven segment display and its segment connections.
+ 3.Including the library Sevseg for displaying digits on the seven segment display.
+ 4.Use of delay() function and some conditional statements. 
+ 5..Translating real-world systems into code
