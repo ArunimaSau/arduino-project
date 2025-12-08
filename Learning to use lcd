@@ -1,0 +1,11 @@
+After testing some sample experiments with my arduino UNO and building some basic circuits , I wanted to upgrade my skill. I connected a lcd with my arduino. 
+My objective was to print random text on the lcd screen. 
+
+💡Objectives:
+  ✅ Including the Liquid Crystal Library in the Arduino IDE.
+  ✅ Printing random text on the LCD. 
+
+💡Things I learnt:
+ ✅ Learnt to use Liquid crystal_I2C library.
+ ✅ The various functions associated with the library.
+ ✅ Learnt about the 16×2 LCD display screen.
