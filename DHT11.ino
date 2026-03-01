@@ -1,3 +1,9 @@
+Thereafter moving on with something new, I built a circuit which could detect the temperature and humidity of the environment with the help of DHT11 sensor and a LCD display.
+
+🧠 Skills Gained
+✔ How to use DHT11 sensor in project.
+✔ Including the SimpleDHT library in the Arduino IDE and working with it.
+
 #include <LiquidCrystal_I2C.h>
 
 #include <SimpleDHT.h>
